@@ -35,7 +35,7 @@ export const site = {
   facebook: "https://facebook.com/",
 
   // SEO
-  url: "https://mudanzas-pampa.vercel.app",
+  url: "https://demo-mudanzas-v1.ideawebx.com",
   locale: "es_AR",
 };
 
